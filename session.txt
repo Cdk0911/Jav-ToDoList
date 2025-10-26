@@ -1,0 +1,68 @@
+Script started on Sun Oct 26 21:45:40 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://CHANDRAKANTH-MACBOOK-AIR.local/Users/macbook%20air/Documents/MyProjects2[0m[27m[24m[Jananth@CHANDRAKANTH-MACBOOK-AIR MyProjects2 % [K[?2004hjjava ToDoListApp[?2004l
+=== 📝 Welcome to Your To-Do List ===
+
+Menu:
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Save and Exit
+Enter your choice: 1
+Enter task title: 	Complete        Complete Java assignment
+✅ Task added successfully!
+
+Menu:
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Save and Exit
+Enter your choice: 2
+
+---- Your To-Do List ----
+1. [✔] Complete Java assignment
+2. [ ] Complete Java assignment
+
+Menu:
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Save and Exit
+Enter your choice: 3
+
+---- Your To-Do List ----
+1. [✔] Complete Java assignment
+2. [ ] Complete Java assignment
+Enter task number to mark as done: 1
+⚠ Task already marked as completed!
+
+Menu:
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Save and Exit
+Enter your choice: 2
+
+---- Your To-Do List ----
+1. [✔] Complete Java assignment
+2. [ ] Complete Java assignment
+
+Menu:
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Save and Exit
+Enter your choice: 5
+💾 Tasks saved! Exiting...
+[1m[7m%[27m[1m[0m                                                                                ]7;file://CHANDRAKANTH-MACBOOK-AIR.local/Users/macbook%20air/Documents/MyProjects2[0m[27m[24m[Jananth@CHANDRAKANTH-MACBOOK-AIR MyProjects2 % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Oct 26 21:47:17 2025
